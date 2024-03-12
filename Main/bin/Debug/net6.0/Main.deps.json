@@ -1,0 +1,92 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Main/1.0.0": {
+        "dependencies": {
+          "Alcolice": "1.0.0",
+          "Bar": "1.0.0",
+          "Bauturi": "1.0.0",
+          "Bere": "1.0.0",
+          "Non-alcolice1": "1.0.0"
+        },
+        "runtime": {
+          "Main.dll": {}
+        }
+      },
+      "Alcolice/1.0.0": {
+        "dependencies": {
+          "Bauturi": "1.0.0"
+        },
+        "runtime": {
+          "Alcolice.dll": {}
+        }
+      },
+      "Bar/1.0.0": {
+        "runtime": {
+          "Bar.dll": {}
+        }
+      },
+      "Bauturi/1.0.0": {
+        "dependencies": {
+          "Bar": "1.0.0"
+        },
+        "runtime": {
+          "Bauturi.dll": {}
+        }
+      },
+      "Bere/1.0.0": {
+        "dependencies": {
+          "Alcolice": "1.0.0"
+        },
+        "runtime": {
+          "Bere.dll": {}
+        }
+      },
+      "Non-alcolice1/1.0.0": {
+        "dependencies": {
+          "Bauturi": "1.0.0"
+        },
+        "runtime": {
+          "Non-alcolice1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Main/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Alcolice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bauturi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bere/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Non-alcolice1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

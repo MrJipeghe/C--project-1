@@ -1,0 +1,17 @@
+C:\Users\Roland\OneDrive\Desktop\C++ folder\C#\T5\Alcolice\obj\Debug\net6.0\Alcolice.csproj.AssemblyReference.cache
+C:\Users\Roland\OneDrive\Desktop\C++ folder\C#\T5\Alcolice\obj\Debug\net6.0\Alcolice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roland\OneDrive\Desktop\C++ folder\C#\T5\Alcolice\obj\Debug\net6.0\Alcolice.AssemblyInfoInputs.cache
+C:\Users\Roland\OneDrive\Desktop\C++ folder\C#\T5\Alcolice\obj\Debug\net6.0\Alcolice.AssemblyInfo.cs
+C:\Users\Roland\OneDrive\Desktop\C++ folder\C#\T5\Alcolice\obj\Debug\net6.0\Alcolice.csproj.CoreCompileInputs.cache
+C:\Users\Roland\OneDrive\Desktop\C++ folder\C#\T5\Alcolice\bin\Debug\net6.0\Alcolice.deps.json
+C:\Users\Roland\OneDrive\Desktop\C++ folder\C#\T5\Alcolice\bin\Debug\net6.0\Alcolice.dll
+C:\Users\Roland\OneDrive\Desktop\C++ folder\C#\T5\Alcolice\bin\Debug\net6.0\Alcolice.pdb
+C:\Users\Roland\OneDrive\Desktop\C++ folder\C#\T5\Alcolice\bin\Debug\net6.0\Bar.dll
+C:\Users\Roland\OneDrive\Desktop\C++ folder\C#\T5\Alcolice\bin\Debug\net6.0\Bauturi.dll
+C:\Users\Roland\OneDrive\Desktop\C++ folder\C#\T5\Alcolice\bin\Debug\net6.0\Bauturi.pdb
+C:\Users\Roland\OneDrive\Desktop\C++ folder\C#\T5\Alcolice\bin\Debug\net6.0\Bar.pdb
+C:\Users\Roland\OneDrive\Desktop\C++ folder\C#\T5\Alcolice\obj\Debug\net6.0\Alcolice.csproj.CopyComplete
+C:\Users\Roland\OneDrive\Desktop\C++ folder\C#\T5\Alcolice\obj\Debug\net6.0\Alcolice.dll
+C:\Users\Roland\OneDrive\Desktop\C++ folder\C#\T5\Alcolice\obj\Debug\net6.0\refint\Alcolice.dll
+C:\Users\Roland\OneDrive\Desktop\C++ folder\C#\T5\Alcolice\obj\Debug\net6.0\Alcolice.pdb
+C:\Users\Roland\OneDrive\Desktop\C++ folder\C#\T5\Alcolice\obj\Debug\net6.0\ref\Alcolice.dll

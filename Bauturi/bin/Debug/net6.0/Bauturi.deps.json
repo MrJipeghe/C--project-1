@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Bauturi/1.0.0": {
+        "dependencies": {
+          "Bar": "1.0.0"
+        },
+        "runtime": {
+          "Bauturi.dll": {}
+        }
+      },
+      "Bar/1.0.0": {
+        "runtime": {
+          "Bar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bauturi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

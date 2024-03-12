@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Alcolice/1.0.0": {
+        "dependencies": {
+          "Bauturi": "1.0.0"
+        },
+        "runtime": {
+          "Alcolice.dll": {}
+        }
+      },
+      "Bar/1.0.0": {
+        "runtime": {
+          "Bar.dll": {}
+        }
+      },
+      "Bauturi/1.0.0": {
+        "dependencies": {
+          "Bar": "1.0.0"
+        },
+        "runtime": {
+          "Bauturi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Alcolice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bauturi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

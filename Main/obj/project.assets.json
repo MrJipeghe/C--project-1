@@ -1,0 +1,184 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Alcolice/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Bauturi": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Alcolice.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Alcolice.dll": {}
+        }
+      },
+      "Bar/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Bar.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Bar.dll": {}
+        }
+      },
+      "Bauturi/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Bar": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Bauturi.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Bauturi.dll": {}
+        }
+      },
+      "Bere/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Alcolice": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Bere.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Bere.dll": {}
+        }
+      },
+      "Non-alcolice1/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Bauturi": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Non-alcolice1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Non-alcolice1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Alcolice/1.0.0": {
+      "type": "project",
+      "path": "../Alcolice/Alcolice.csproj",
+      "msbuildProject": "../Alcolice/Alcolice.csproj"
+    },
+    "Bar/1.0.0": {
+      "type": "project",
+      "path": "../Bar/Bar.csproj",
+      "msbuildProject": "../Bar/Bar.csproj"
+    },
+    "Bauturi/1.0.0": {
+      "type": "project",
+      "path": "../Bauturi/Bauturi.csproj",
+      "msbuildProject": "../Bauturi/Bauturi.csproj"
+    },
+    "Bere/1.0.0": {
+      "type": "project",
+      "path": "../Bere/Bere.csproj",
+      "msbuildProject": "../Bere/Bere.csproj"
+    },
+    "Non-alcolice1/1.0.0": {
+      "type": "project",
+      "path": "../Non-alcolice1/Non-alcolice1.csproj",
+      "msbuildProject": "../Non-alcolice1/Non-alcolice1.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Alcolice >= 1.0.0",
+      "Bar >= 1.0.0",
+      "Bauturi >= 1.0.0",
+      "Bere >= 1.0.0",
+      "Non-alcolice1 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Roland\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Roland\\OneDrive\\Desktop\\C++ folder\\C#\\T5\\Main\\Main.csproj",
+      "projectName": "Main",
+      "projectPath": "C:\\Users\\Roland\\OneDrive\\Desktop\\C++ folder\\C#\\T5\\Main\\Main.csproj",
+      "packagesPath": "C:\\Users\\Roland\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Roland\\OneDrive\\Desktop\\C++ folder\\C#\\T5\\Main\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Roland\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Roland\\OneDrive\\Desktop\\C++ folder\\C#\\T5\\Alcolice\\Alcolice.csproj": {
+              "projectPath": "C:\\Users\\Roland\\OneDrive\\Desktop\\C++ folder\\C#\\T5\\Alcolice\\Alcolice.csproj"
+            },
+            "C:\\Users\\Roland\\OneDrive\\Desktop\\C++ folder\\C#\\T5\\Bar\\Bar.csproj": {
+              "projectPath": "C:\\Users\\Roland\\OneDrive\\Desktop\\C++ folder\\C#\\T5\\Bar\\Bar.csproj"
+            },
+            "C:\\Users\\Roland\\OneDrive\\Desktop\\C++ folder\\C#\\T5\\Bauturi\\Bauturi.csproj": {
+              "projectPath": "C:\\Users\\Roland\\OneDrive\\Desktop\\C++ folder\\C#\\T5\\Bauturi\\Bauturi.csproj"
+            },
+            "C:\\Users\\Roland\\OneDrive\\Desktop\\C++ folder\\C#\\T5\\Bere\\Bere.csproj": {
+              "projectPath": "C:\\Users\\Roland\\OneDrive\\Desktop\\C++ folder\\C#\\T5\\Bere\\Bere.csproj"
+            },
+            "C:\\Users\\Roland\\OneDrive\\Desktop\\C++ folder\\C#\\T5\\Non-alcolice1\\Non-alcolice1.csproj": {
+              "projectPath": "C:\\Users\\Roland\\OneDrive\\Desktop\\C++ folder\\C#\\T5\\Non-alcolice1\\Non-alcolice1.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

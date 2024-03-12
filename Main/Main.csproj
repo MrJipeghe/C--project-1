@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Alcolice\Alcolice.csproj" />
+    <ProjectReference Include="..\Bar\Bar.csproj" />
+    <ProjectReference Include="..\Bauturi\Bauturi.csproj" />
+    <ProjectReference Include="..\Bere\Bere.csproj" />
+    <ProjectReference Include="..\Non-alcolice1\Non-alcolice1.csproj" />
+  </ItemGroup>
+
+</Project>

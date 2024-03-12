@@ -1,0 +1,15 @@
+C:\Users\Roland\OneDrive\Desktop\C++ folder\C#\T5\Bauturi\obj\Debug\net6.0\Bauturi.csproj.AssemblyReference.cache
+C:\Users\Roland\OneDrive\Desktop\C++ folder\C#\T5\Bauturi\obj\Debug\net6.0\Bauturi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roland\OneDrive\Desktop\C++ folder\C#\T5\Bauturi\obj\Debug\net6.0\Bauturi.AssemblyInfoInputs.cache
+C:\Users\Roland\OneDrive\Desktop\C++ folder\C#\T5\Bauturi\obj\Debug\net6.0\Bauturi.AssemblyInfo.cs
+C:\Users\Roland\OneDrive\Desktop\C++ folder\C#\T5\Bauturi\obj\Debug\net6.0\Bauturi.csproj.CoreCompileInputs.cache
+C:\Users\Roland\OneDrive\Desktop\C++ folder\C#\T5\Bauturi\bin\Debug\net6.0\Bauturi.deps.json
+C:\Users\Roland\OneDrive\Desktop\C++ folder\C#\T5\Bauturi\bin\Debug\net6.0\Bauturi.dll
+C:\Users\Roland\OneDrive\Desktop\C++ folder\C#\T5\Bauturi\bin\Debug\net6.0\Bauturi.pdb
+C:\Users\Roland\OneDrive\Desktop\C++ folder\C#\T5\Bauturi\bin\Debug\net6.0\Bar.dll
+C:\Users\Roland\OneDrive\Desktop\C++ folder\C#\T5\Bauturi\bin\Debug\net6.0\Bar.pdb
+C:\Users\Roland\OneDrive\Desktop\C++ folder\C#\T5\Bauturi\obj\Debug\net6.0\Bauturi.csproj.CopyComplete
+C:\Users\Roland\OneDrive\Desktop\C++ folder\C#\T5\Bauturi\obj\Debug\net6.0\Bauturi.dll
+C:\Users\Roland\OneDrive\Desktop\C++ folder\C#\T5\Bauturi\obj\Debug\net6.0\refint\Bauturi.dll
+C:\Users\Roland\OneDrive\Desktop\C++ folder\C#\T5\Bauturi\obj\Debug\net6.0\Bauturi.pdb
+C:\Users\Roland\OneDrive\Desktop\C++ folder\C#\T5\Bauturi\obj\Debug\net6.0\ref\Bauturi.dll
